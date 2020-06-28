@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56401008617",
+    "firebase_url": "https://food-order-346fe.firebaseio.com",
+    "project_id": "food-order-346fe",
+    "storage_bucket": "food-order-346fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56401008617:android:5f2a69c6defbb4a10bdd78",
+        "android_client_info": {
+          "package_name": "com.rendy.splashscreenactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56401008617-hv9ukftn6b9i25nacboigg3oc1mno5de.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rendy.splashscreenactivity",
+            "certificate_hash": "0a4793654f1ada8bb341e29bfe32bd80e1ba9e78"
+          }
+        },
+        {
+          "client_id": "56401008617-ctndtbbt03pv830mtj0ebujjga6bkh0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsmb0FYHJRJ_CIF-NdzxdKzgHUDyIfdWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56401008617-ctndtbbt03pv830mtj0ebujjga6bkh0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
